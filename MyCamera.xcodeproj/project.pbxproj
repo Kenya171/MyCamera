@@ -12,6 +12,7 @@
 		3087128829FF814F0053022F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3087128729FF814F0053022F /* Assets.xcassets */; };
 		3087128B29FF814F0053022F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3087128A29FF814F0053022F /* Preview Assets.xcassets */; };
 		3087129229FF823F0053022F /* ImagePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3087129129FF823F0053022F /* ImagePickerView.swift */; };
+		30F025832A56B46500AEC83C /* EffectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F025822A56B46500AEC83C /* EffectView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		3087128729FF814F0053022F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3087128A29FF814F0053022F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3087129129FF823F0053022F /* ImagePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerView.swift; sourceTree = "<group>"; };
+		30F025822A56B46500AEC83C /* EffectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EffectView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				3087128329FF814D0053022F /* MyCameraApp.swift */,
 				3087128529FF814D0053022F /* ContentView.swift */,
 				3087129129FF823F0053022F /* ImagePickerView.swift */,
+				30F025822A56B46500AEC83C /* EffectView.swift */,
 				3087128729FF814F0053022F /* Assets.xcassets */,
 				3087128929FF814F0053022F /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				3087128629FF814D0053022F /* ContentView.swift in Sources */,
 				3087129229FF823F0053022F /* ImagePickerView.swift in Sources */,
 				3087128429FF814D0053022F /* MyCameraApp.swift in Sources */,
+				30F025832A56B46500AEC83C /* EffectView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
